@@ -1,9 +1,21 @@
 # Release Note
 
+## 2023/02/02
+
+Commit: 1446ef0553d0ab07d562e1fa12364f066e605c25 
+
+Change:
+
+- Add hw config file to support for universal neuron.
+
 ## 2023/01/03
 
+Commit: 74469889b13a3637d3cb6d57ab1476bc2d7941fc
+
+Change:
+
 - Update apusys firmware: 
-  - upgrade trace logger from v1 to v2
+  - Upgrade trace logger from v1 to v2
 
 | Binary         | Commit  | Branch         | Module                                                  |
 | -------------- | ------- | -------------- | ------------------------------------------------------- |
@@ -14,6 +26,8 @@
 
 
 ## 2022/11/22
+
+Commit: 74469889b13a3637d3cb6d57ab1476bc2d7941fc
 
 | Binary         | Commit  | Branch         | Module                                                  |
 | -------------- | ------- | -------------- | ------------------------------------------------------- |
