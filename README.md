@@ -13,7 +13,7 @@ In kernel space, firmwares works with the APUSYS kernel driver to executing Neur
 ## Branch
 
 - The main branch is unused. 
-
-- For i1200 platform: use `mt8195` branch. It is still under development and subject to design changes.
+- For G1200 platform: use `mt8195` branch. It is still under development and subject to design changes.
+- For G700 platform: use `mt8188` branch. It is still under development and subject to design changes.
 
 
