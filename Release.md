@@ -1,8 +1,16 @@
 # Release Note
 
+## 2023/02/08
+
+Commit: 5698e1d374b443ffe497239bb9c0ec1eee260768
+
+Change:
+
+- Update hw config file to support EDMA 3.5.
+
 ## 2023/02/02
 
-Commit: 1446ef0553d0ab07d562e1fa12364f066e605c25 
+Commit: 1446ef0553d0ab07d562e1fa12364f066e605c25
 
 Change:
 
