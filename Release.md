@@ -1,5 +1,19 @@
 # Release Note
 
+## 2023/06/27
+
+Commit: c8ebea7e201eafac0a13fedc42465131800cae6e
+
+Change:
+
+- Enable secure boot
+
+| Binary         | Commit                       | Branch         | Module                                                  |
+| -------------- | ---------------------------- | -------------- | ------------------------------------------------------- |
+| apusys.sig.img | 6957114 + 7085666 + 7297665  | alps-mp-t0.mp5 | alps/vendor/mediatek/proprietary/tinysys/apusys         |
+| cam_vpuX.img   | 6323711                      | alps-mp-t0.mp5 | alps/vendor/mediatek/proprietary/hardware/libcamera_ext |
+|                | 6709928                      | alps-mp-t0.mp5 | alps/vendor/mediatek/proprietary/hardware/vpu_nn_algo   |
+
 ## 2023/02/02
 
 Commit: f314a8e4a33d45dd3770655b8e36fafcf77f44a4
