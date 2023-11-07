@@ -1,5 +1,18 @@
 # Release Note
 
+## 2023/11/07
+
+Commit: d523aef4eac01a363cccfb83d237b1588968585b
+
+Change:
+
+- Add support MT8390I and Genio 510 (MT8370A, MT8370I).
+
+| Binary         | Commit    | Branch         | Module                                                  |
+| -------------- | ----------| -------------- | ------------------------------------------------------- |
+| apusys.sig.img | 8209726/3 | alps-mp-t0.mp5 | alps/vendor/mediatek/proprietary/tinysys/apusys         |
+
+
 ## 2023/02/08
 
 Commit: 5698e1d374b443ffe497239bb9c0ec1eee260768
