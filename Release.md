@@ -1,8 +1,8 @@
 # Release Note
 
-## 2023/11/07
+## 2023/11/20
 
-Commit: d523aef4eac01a363cccfb83d237b1588968585b
+Commit: 03d7829faf1d4ba5507b479d94c101bbc5f8daa1
 
 Change:
 
